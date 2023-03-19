@@ -6,7 +6,7 @@
 
 ---
 
-BUILD
+## BUILD
 
 1) En el cliente haces npm run build, lo cual crea una carpeta "build" (o lo actualiza si ya habias creado la carpeta).
 2) Desde fuera de VSCode, copia los archivos de esa carpeta y llevalos a la carpeta server/public y pegalos ahi.
@@ -16,7 +16,7 @@ BUILD
 ---
 <https://youtu.be/Q0wVXS-V-Uw?t=774>
 
-DEPLOY A HEROKU
+## DEPLOY A HEROKU
 
 1) .gitignore a nivel raíz de la carpeta server para no enviar /node_modules y cualquier otro archivo confidencial.
 2) Te logueas desde el CLI de Heroku con el siguiente comando: heroku login
