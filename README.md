@@ -1,4 +1,4 @@
-# Tutorial: Armado y Deploy en Heroku MARZO 2023
+# Tutorial: Armado y Deploy de REACT + NODE en Heroku MARZO 2023
 
 ## ARMADO
 
